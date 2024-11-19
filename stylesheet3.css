@@ -2,14 +2,17 @@ h3 {
     text-align: center;
     padding: 2%;
 }
+
 .icon {
-padding: 50%;
+    padding: 50%;
 }
+
 h1 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white
 }
+
 .center {
     display: block;
     margin-left: auto;
@@ -49,14 +52,17 @@ body {
     background-image: url(background.jpeg);
     font-size: large;
     text-align: center;
+    text-wrap: wrap;
 }
+
 /* main layout */
-.container {
+.container1 img {
     display: flex;
     flex-wrap: wrap;
     gap: 50px;
-    padding-left: 90px;
-    padding-top: 60px;
+    padding: 110px;
+    padding-right: 80px;
+    float: left;
+    width: 308px;
+    height: 362px;
 }
-
-
