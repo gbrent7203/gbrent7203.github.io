@@ -60,9 +60,8 @@ body {
     display: flex;
     flex-wrap: wrap;
     gap: 50px;
-    padding: 110px;
-    padding-right: 80px;
-    float: left;
+    padding: 96px;
     width: 308px;
     height: 362px;
+    float: left;
 }
