@@ -2,6 +2,9 @@ h3 {
     text-align: center;
     padding: 2%;
 }
+h1 {
+    padding: 49px;
+}
 .icon {
 padding: 50%;
 }
@@ -15,6 +18,7 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     width: 52%;
+    height: 10%;
     padding-top: 2%;
 }
 
@@ -46,17 +50,8 @@ h1 {
 body {
     margin: 0%;
     padding: 0%;
+    padding-bottom: 50px;
     background-image: url(background.jpeg);
-    font-size: large;
     text-wrap: wrap;
 }
-/* main layout */
-.container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 50px;
-    padding-left: 100px;
-    padding-top: 70px;
-    padding-bottom: 70px;
-    justify-content: center;
-}
+/* Main layout above */
